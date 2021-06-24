@@ -3,12 +3,12 @@
 }
 
 .sectionTitle {
-  font: 'Rokkitt', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Rokkitt', 'Helvetica', 'Arial', 'sans-serif';
   color: #cf8a05;
 }
 
 .sectionContent {
-  font: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 100;
 }
 
